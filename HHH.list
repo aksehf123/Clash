@@ -5,6 +5,8 @@
 # DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,mat6tube.com
 DOMAIN-SUFFIX,strpst.com
+DOMAIN-SUFFIX,doppiocdn.live
+DOMAIN-SUFFIX,pvvstream.pro
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,stripchat
