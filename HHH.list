@@ -3,14 +3,19 @@
 # MyList
 # 域名后缀匹配
 # DOMAIN-SUFFIX,time.windows.com
-DOMAIN-SUFFIX,mat6tube.com
+DOMAIN-SUFFIX,stripchat.com
 DOMAIN-SUFFIX,strpst.com
 DOMAIN-SUFFIX,doppiocdn.live
+DOMAIN-SUFFIX,mat6tube.com
 DOMAIN-SUFFIX,pvvstream.pro
+
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,stripchat
+DOMAIN-KEYWORD,strpst
+DOMAIN-KEYWORD,doppiocdn
 DOMAIN-KEYWORD,mat6tube
+DOMAIN-KEYWORD,pvvstream
 
 # IP段匹配
 # IP-CIDR,219.146.1.66/32,no-resolve
