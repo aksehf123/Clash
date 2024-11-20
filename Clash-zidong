@@ -1,5 +1,6 @@
 ;1、域名组
 ruleset=➡️ 国内,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
+ruleset=➡️ 国内,https://raw.githubusercontent.com/aksehf123/Clash/refs/heads/main/Direct.list
 #ruleset=➡️ 国内,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/GoogleCN.list
 #ruleset=➡️ 国内,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/SteamCN.list
 #ruleset=👽 OpenAI,https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/AI.list
