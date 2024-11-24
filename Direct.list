@@ -12,10 +12,14 @@ DOMAIN-SUFFIX,xiukee.net
 DOMAIN-SUFFIX,xiukor.net
 DOMAIN-SUFFIX,pc528.net
 DOMAIN-SUFFIX,feiyangdigital.tg.ystenlive.ottdns.com
+DOMAIN-SUFFIX,feiyangdigital.tg.wasulive.ottdns.com
+DOMAIN-SUFFIX,feiyangdigital.tg.fifalive.ottdns.com
 
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
+DOMAIN-KEYWORD,feiyangdigital
+DOMAIN-KEYWORD,ottdns.com
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
