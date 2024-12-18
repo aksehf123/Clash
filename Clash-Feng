@@ -55,7 +55,7 @@ custom_proxy_group=新加坡-牛逼`url-test`(?=.*(新加坡0))^((?!(linode|Web|
 #custom_proxy_group=新加坡-SKY`url-test`(?=.*(新加坡))^((?!(linode|Web|Tk|TK|GPT|Netflix|中转|专线)).)*$`http://www.gstatic.com/generate_204`60,150
 custom_proxy_group=SKY负载`load-balance`(?=.*(新加坡-))^((?!(linode|Web|Tk|TK|GPT|Netflix|中转|专线|Udp|破墙)).)*$`http://www.gstatic.com/generate_204`120,,50
 custom_proxy_group=iKuuu负载`load-balance`(?=.*(免费-|免费))^((?!(linode|Web|Tk|TK|GPT|Netflix|中转|专线)).)*$`http://www.gstatic.com/generate_204`120,,50
-custom_proxy_group=十元负载`load-balance`(?=.*(Udp-|-SYYN|Udp|SYYN))^((?!(美国)).)*$`http://www.gstatic.com/generate_204`120,,50
+custom_proxy_group=十元负载`load-balance`(?=.*(Udp-|-SYYN|Udp|SYYN))^((?!(美国|日本|韩国)).)*$`http://www.gstatic.com/generate_204`120,,50
 #custom_proxy_group=十元`url-test`(?=.*(SS转发|深港专线|沪日专线))^((?!(10x|20x|50x)).)*$`http://www.gstatic.com/generate_204`60,150
 #custom_proxy_group=美国-自动`url-test`(广美|美|US|纽约|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|🇺🇸|United States)`http://www.gstatic.com/generate_204`60,150
 custom_proxy_group=美国-自动`url-test`(?=.*(广美|美|US|纽约|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|🇺🇸|United States))^((?!(None)).)*$`http://www.gstatic.com/generate_204`60,150
