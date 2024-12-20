@@ -29,20 +29,20 @@ ruleset=➡️ 国内,[]GEOIP,CN,no-resolve
 ruleset=🐟 漏网之鱼,[]FINAL
 
 ;2、策略组（域名组-节点组）
-custom_proxy_group=🌍 国外`select`[]DIRECT`[]所有-自动`[]手动选择1`[]手动选择2`[]手动选择3`[]香港-自动`[]新加坡-自动`[]新加坡-牛逼`[]SKY负载`[]iKuuu负载`[]十元负载`[]美国-自动`[]台湾-自动`[]日本-自动`[]韩国-自动`[]其他-自动`[]REJECT
-#custom_proxy_group=🚀 节点选择`select`[]DIRECT`[]所有-自动`[]手动选择1`[]手动选择2`[]手动选择3`[]香港-自动`[]新加坡-自动`[]新加坡-牛逼`[]SKY负载`[]iKuuu负载`[]十元负载`[]美国-自动`[]台湾-自动`[]日本-自动`[]韩国-自动`[]其他-自动`[]REJECT
-custom_proxy_group=📘 GitHub`select`[]DIRECT`[]所有-自动`[]手动选择1`[]手动选择2`[]手动选择3`[]香港-自动`[]新加坡-自动`[]新加坡-牛逼`[]SKY负载`[]iKuuu负载`[]十元负载`[]美国-自动`[]台湾-自动`[]日本-自动`[]韩国-自动`[]其他-自动`[]REJECT
-custom_proxy_group=👽 OpenAI`select`[]DIRECT`[]所有-自动`[]手动选择1`[]手动选择2`[]手动选择3`[]香港-自动`[]新加坡-自动`[]新加坡-牛逼`[]SKY负载`[]iKuuu负载`[]十元负载`[]美国-自动`[]台湾-自动`[]日本-自动`[]韩国-自动`[]其他-自动`[]REJECT
-custom_proxy_group=👯‍♂️ TikTok`select`[]DIRECT`[]所有-自动`[]手动选择1`[]手动选择2`[]手动选择3`[]香港-自动`[]新加坡-自动`[]新加坡-牛逼`[]SKY负载`[]iKuuu负载`[]十元负载`[]美国-自动`[]台湾-自动`[]日本-自动`[]韩国-自动`[]其他-自动`[]REJECT
-custom_proxy_group=🎞️ YouTube`select`[]DIRECT`[]所有-自动`[]手动选择1`[]手动选择2`[]手动选择3`[]香港-自动`[]新加坡-自动`[]新加坡-牛逼`[]SKY负载`[]iKuuu负载`[]十元负载`[]美国-自动`[]台湾-自动`[]日本-自动`[]韩国-自动`[]其他-自动`[]REJECT
-custom_proxy_group=🎥 Netflix`select`[]DIRECT`[]所有-自动`[]手动选择1`[]手动选择2`[]手动选择3`[]香港-自动`[]新加坡-自动`[]新加坡-牛逼`[]SKY负载`[]iKuuu负载`[]十元负载`[]美国-自动`[]台湾-自动`[]日本-自动`[]韩国-自动`[]其他-自动`[]REJECT
-custom_proxy_group=📺 Disney`select`[]DIRECT`[]所有-自动`[]手动选择1`[]手动选择2`[]手动选择3`[]香港-自动`[]新加坡-自动`[]新加坡-牛逼`[]SKY负载`[]iKuuu负载`[]十元负载`[]美国-自动`[]台湾-自动`[]日本-自动`[]韩国-自动`[]其他-自动`[]REJECT
-#custom_proxy_group=📹 Emby`select`[]DIRECT`[]所有-自动`[]手动选择1`[]手动选择2`[]手动选择3`[]香港-自动`[]新加坡-自动`[]新加坡-牛逼`[]SKY负载`[]iKuuu负载`[]十元负载`[]美国-自动`[]台湾-自动`[]日本-自动`[]韩国-自动`[]其他-自动`[]REJECT
-custom_proxy_group=🙋 Telegram`select`[]DIRECT`[]所有-自动`[]手动选择1`[]手动选择2`[]手动选择3`[]香港-自动`[]新加坡-自动`[]新加坡-牛逼`[]SKY负载`[]iKuuu负载`[]十元负载`[]美国-自动`[]台湾-自动`[]日本-自动`[]韩国-自动`[]其他-自动`[]REJECT
-custom_proxy_group=♋️ XXX`select`[]DIRECT`[]所有-自动`[]手动选择1`[]手动选择2`[]手动选择3`[]香港-自动`[]新加坡-自动`[]新加坡-牛逼`[]SKY负载`[]iKuuu负载`[]十元负载`[]美国-自动`[]台湾-自动`[]日本-自动`[]韩国-自动`[]其他-自动`[]REJECT
+custom_proxy_group=🌍 国外`select`[]DIRECT`[]所有-自动`[]手动选择1`[]手动选择2`[]手动选择3`[]香港-自动`[]香港-牛逼`[]新加坡-自动`[]新加坡-牛逼`[]SKY负载`[]iKuuu负载`[]十元负载`[]美国-自动`[]台湾-自动`[]日本-自动`[]韩国-自动`[]其他-自动`[]REJECT
+#custom_proxy_group=🚀 节点选择`select`[]DIRECT`[]所有-自动`[]手动选择1`[]手动选择2`[]手动选择3`[]香港-自动`[]香港-牛逼`[]新加坡-自动`[]新加坡-牛逼`[]SKY负载`[]iKuuu负载`[]十元负载`[]美国-自动`[]台湾-自动`[]日本-自动`[]韩国-自动`[]其他-自动`[]REJECT
+custom_proxy_group=📘 GitHub`select`[]DIRECT`[]所有-自动`[]手动选择1`[]手动选择2`[]手动选择3`[]香港-自动`[]香港-牛逼`[]新加坡-自动`[]新加坡-牛逼`[]SKY负载`[]iKuuu负载`[]十元负载`[]美国-自动`[]台湾-自动`[]日本-自动`[]韩国-自动`[]其他-自动`[]REJECT
+custom_proxy_group=👽 OpenAI`select`[]DIRECT`[]所有-自动`[]手动选择1`[]手动选择2`[]手动选择3`[]香港-自动`[]香港-牛逼`[]新加坡-自动`[]新加坡-牛逼`[]SKY负载`[]iKuuu负载`[]十元负载`[]美国-自动`[]台湾-自动`[]日本-自动`[]韩国-自动`[]其他-自动`[]REJECT
+custom_proxy_group=👯‍♂️ TikTok`select`[]DIRECT`[]所有-自动`[]手动选择1`[]手动选择2`[]手动选择3`[]香港-自动`[]香港-牛逼`[]新加坡-自动`[]新加坡-牛逼`[]SKY负载`[]iKuuu负载`[]十元负载`[]美国-自动`[]台湾-自动`[]日本-自动`[]韩国-自动`[]其他-自动`[]REJECT
+custom_proxy_group=🎞️ YouTube`select`[]DIRECT`[]所有-自动`[]手动选择1`[]手动选择2`[]手动选择3`[]香港-自动`[]香港-牛逼`[]新加坡-自动`[]新加坡-牛逼`[]SKY负载`[]iKuuu负载`[]十元负载`[]美国-自动`[]台湾-自动`[]日本-自动`[]韩国-自动`[]其他-自动`[]REJECT
+custom_proxy_group=🎥 Netflix`select`[]DIRECT`[]所有-自动`[]手动选择1`[]手动选择2`[]手动选择3`[]香港-自动`[]香港-牛逼`[]新加坡-自动`[]新加坡-牛逼`[]SKY负载`[]iKuuu负载`[]十元负载`[]美国-自动`[]台湾-自动`[]日本-自动`[]韩国-自动`[]其他-自动`[]REJECT
+custom_proxy_group=📺 Disney`select`[]DIRECT`[]所有-自动`[]手动选择1`[]手动选择2`[]手动选择3`[]香港-自动`[]香港-牛逼`[]新加坡-自动`[]新加坡-牛逼`[]SKY负载`[]iKuuu负载`[]十元负载`[]美国-自动`[]台湾-自动`[]日本-自动`[]韩国-自动`[]其他-自动`[]REJECT
+#custom_proxy_group=📹 Emby`select`[]DIRECT`[]所有-自动`[]手动选择1`[]手动选择2`[]手动选择3`[]香港-自动`[]香港-牛逼`[]新加坡-自动`[]新加坡-牛逼`[]SKY负载`[]iKuuu负载`[]十元负载`[]美国-自动`[]台湾-自动`[]日本-自动`[]韩国-自动`[]其他-自动`[]REJECT
+custom_proxy_group=🙋 Telegram`select`[]DIRECT`[]所有-自动`[]手动选择1`[]手动选择2`[]手动选择3`[]香港-自动`[]香港-牛逼`[]新加坡-自动`[]新加坡-牛逼`[]SKY负载`[]iKuuu负载`[]十元负载`[]美国-自动`[]台湾-自动`[]日本-自动`[]韩国-自动`[]其他-自动`[]REJECT
+custom_proxy_group=♋️ XXX`select`[]DIRECT`[]所有-自动`[]手动选择1`[]手动选择2`[]手动选择3`[]香港-自动`[]香港-牛逼`[]新加坡-自动`[]新加坡-牛逼`[]SKY负载`[]iKuuu负载`[]十元负载`[]美国-自动`[]台湾-自动`[]日本-自动`[]韩国-自动`[]其他-自动`[]REJECT
 custom_proxy_group=➡️ 国内`select`[]DIRECT`[]REJECT
 custom_proxy_group=🛑 广告拦截`select`[]REJECT`[]DIRECT
-custom_proxy_group=🐟 漏网之鱼`select`[]DIRECT`[]所有-自动`[]手动选择1`[]手动选择2`[]手动选择3`[]香港-自动`[]新加坡-自动`[]新加坡-牛逼`[]SKY负载`[]iKuuu负载`[]十元负载`[]美国-自动`[]台湾-自动`[]日本-自动`[]韩国-自动`[]其他-自动`[]REJECT
+custom_proxy_group=🐟 漏网之鱼`select`[]DIRECT`[]所有-自动`[]手动选择1`[]手动选择2`[]手动选择3`[]香港-自动`[]香港-牛逼`[]新加坡-自动`[]新加坡-牛逼`[]SKY负载`[]iKuuu负载`[]十元负载`[]美国-自动`[]台湾-自动`[]日本-自动`[]韩国-自动`[]其他-自动`[]REJECT
 
 ;3、节点组
 custom_proxy_group=手动选择1`select`.*
@@ -50,10 +50,11 @@ custom_proxy_group=手动选择2`select`.*
 custom_proxy_group=手动选择3`select`.*
 custom_proxy_group=所有-自动`url-test`.*`http://www.gstatic.com/generate_204`60,150
 custom_proxy_group=香港-自动`url-test`(广港|香港|HK|Hong Kong|🇭🇰|HongKong)`http://www.gstatic.com/generate_204`60,150
+custom_proxy_group=香港-牛逼`url-test`(?=.*(香港0|香港1))^((?!(Netflix|中转|专线|流媒体|Udp|SYYN)).)*$`http://www.gstatic.com/generate_204`60,150
 custom_proxy_group=新加坡-自动`url-test`(广新|新加坡|SG|坡|狮城|🇸🇬|Singapore)`http://www.gstatic.com/generate_204`60,150
 custom_proxy_group=新加坡-牛逼`url-test`(?=.*(新加坡0))^((?!(linode|Web|Tk|TK|GPT|Netflix|中转|专线|流媒体|Udp)).)*$`http://www.gstatic.com/generate_204`60,150
 #custom_proxy_group=新加坡-SKY`url-test`(?=.*(新加坡))^((?!(linode|Web|Tk|TK|GPT|Netflix|中转|专线)).)*$`http://www.gstatic.com/generate_204`60,150
-custom_proxy_group=SKY负载`load-balance`(?=.*(新加坡-))^((?!(linode|Web|Tk|TK|GPT|Netflix|中转|专线|Udp|破墙)).)*$`http://www.gstatic.com/generate_204`120,,50
+custom_proxy_group=SKY负载`load-balance`(?=.*(新加坡-))^((?!(linode|Web|Tk|TK|GPT|Netflix|中转|专线|Udp|SYYN)).)*$`http://www.gstatic.com/generate_204`120,,50
 custom_proxy_group=iKuuu负载`load-balance`(?=.*(免费-|免费))^((?!(linode|Web|Tk|TK|GPT|Netflix|中转|专线)).)*$`http://www.gstatic.com/generate_204`120,,50
 custom_proxy_group=十元负载`load-balance`(?=.*(Udp-|-SYYN|Udp|SYYN))^((?!(美国|日本)).)*$`http://www.gstatic.com/generate_204`120,,50
 #custom_proxy_group=十元`url-test`(?=.*(SS转发|深港专线|沪日专线))^((?!(10x|20x|50x)).)*$`http://www.gstatic.com/generate_204`60,150
