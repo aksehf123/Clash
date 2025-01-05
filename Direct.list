@@ -15,12 +15,20 @@ DOMAIN-SUFFIX,feiyangdigital.tg.ystenlive.ottdns.com
 DOMAIN-SUFFIX,feiyangdigital.tg.wasulive.ottdns.com
 DOMAIN-SUFFIX,feiyangdigital.tg.fifalive.ottdns.com
 DOMAIN-SUFFIX,ott.fifalive.cmdns.xyz
+DOMAIN-SUFFIX,iptv.wasulive.cmdns.xyz
+DOMAIN-SUFFIX,iptv.ystenlive.cmdns.xyz
+DOMAIN-SUFFIX,iptv.bestlive.cmdns.xyz
+DOMAIN-SUFFIX,iptv.fifalive.cmdns.xyz
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,feiyangdigital
 DOMAIN-KEYWORD,ottdns.com
 DOMAIN-SUFFIX,ifalive.cmdns.xyz
+DOMAIN-SUFFIX,wasulive.cmdns.xyz
+DOMAIN-SUFFIX,ystenlive.cmdns.xyz
+DOMAIN-SUFFIX,bestlive.cmdns.xyz
+DOMAIN-SUFFIX,cmdns.xyz
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
