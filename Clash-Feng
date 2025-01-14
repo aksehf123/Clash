@@ -54,7 +54,7 @@ custom_proxy_group=香港-牛逼`url-test`(?=.*(香港0|香港1|流媒体解锁)
 custom_proxy_group=新加坡-自动`url-test`(广新|新加坡|SG|坡|狮城|🇸🇬|Singapore)`http://www.gstatic.com/generate_204`60,150
 custom_proxy_group=新加坡-牛逼`url-test`(?=.*(新加坡0|流媒体解锁))^((?!(linode|Web|Tk|TK|GPT|Netflix|中转|专线|Udp|SYYN|香港)).)*$`http://www.gstatic.com/generate_204`60,150
 #custom_proxy_group=新加坡-SKY`url-test`(?=.*(新加坡))^((?!(linode|Web|Tk|TK|GPT|Netflix|中转|专线)).)*$`http://www.gstatic.com/generate_204`60,150
-custom_proxy_group=SKY&FG香港负载`load-balance`(?=.*(香港-|HK 香港))^((?!(linode|Web|Tk|TK|GPT|Netflix|中转|专线|Udp|SYYN)).)*$`http://www.gstatic.com/generate_204`120,,50
+custom_proxy_group=SKY&FG香港负载`load-balance`(?=.*(香港-|HK 香港))^((?!(linode|Web|Tk|TK|GPT|Netflix|中转|专线|Udp|SYYN|后端)).)*$`http://www.gstatic.com/generate_204`120,,50
 custom_proxy_group=SKY&FG新加坡负载`load-balance`(?=.*(新加坡-|SG 新加坡))^((?!(linode|Web|Tk|TK|GPT|Netflix|中转|专线|Udp|SYYN|公益)).)*$`http://www.gstatic.com/generate_204`120,,50
 custom_proxy_group=iKuuu负载`load-balance`(?=.*(免费-|免费))^((?!(linode|Web|Tk|TK|GPT|Netflix|中转|专线)).)*$`http://www.gstatic.com/generate_204`120,,50
 custom_proxy_group=十元负载`load-balance`(?=.*(Udp-|-SYYN|Udp|SYYN))^((?!(美国|日本)).)*$`http://www.gstatic.com/generate_204`120,,50
