@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,iptv.wasulive.cmdns.xyz
 DOMAIN-SUFFIX,iptv.ystenlive.cmdns.xyz
 DOMAIN-SUFFIX,iptv.bestlive.cmdns.xyz
 DOMAIN-SUFFIX,iptv.fifalive.cmdns.xyz
+DOMAIN-SUFFIX,rptv.v1.mk
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
