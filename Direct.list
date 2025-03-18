@@ -21,17 +21,20 @@ DOMAIN-SUFFIX,iptv.bestlive.cmdns.xyz
 DOMAIN-SUFFIX,iptv.fifalive.cmdns.xyz
 DOMAIN-SUFFIX,rptv.v1.mk
 DOMAIN-SUFFIX,myip.ipip.net
+DOMAIN-SUFFIX,liaoxuefeng.xyz
+
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,feiyangdigital
 DOMAIN-KEYWORD,ottdns.com
-DOMAIN-SUFFIX,ifalive.cmdns.xyz
-DOMAIN-SUFFIX,wasulive.cmdns.xyz
-DOMAIN-SUFFIX,ystenlive.cmdns.xyz
-DOMAIN-SUFFIX,bestlive.cmdns.xyz
-DOMAIN-SUFFIX,cmdns.xyz
-DOMAIN-SUFFIX,myip.ipip.net
+DOMAIN-KEYWORD,ifalive.cmdns.xyz
+DOMAIN-KEYWORD,wasulive.cmdns.xyz
+DOMAIN-KEYWORD,ystenlive.cmdns.xyz
+DOMAIN-KEYWORD,bestlive.cmdns.xyz
+DOMAIN-KEYWORD,cmdns.xyz
+DOMAIN-KEYWORD,myip.ipip.net
+DOMAIN-KEYWORD,liaoxuefeng.xyz
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
