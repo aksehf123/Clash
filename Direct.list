@@ -21,9 +21,9 @@ DOMAIN-SUFFIX,iptv.bestlive.cmdns.xyz
 DOMAIN-SUFFIX,iptv.fifalive.cmdns.xyz
 DOMAIN-SUFFIX,rptv.v1.mk
 DOMAIN-SUFFIX,myip.ipip.net
+DOMAIN-SUFFIX,lucky.gd
 DOMAIN-SUFFIX,knx.1986007.xyz
 DOMAIN-SUFFIX,wyse.1986007.xyz
-DOMAIN-SUFFIX,lucky.gd
 
 
 # 域名关键字匹配
@@ -36,9 +36,9 @@ DOMAIN-KEYWORD,ystenlive.cmdns.xyz
 DOMAIN-KEYWORD,bestlive.cmdns.xyz
 DOMAIN-KEYWORD,cmdns.xyz
 DOMAIN-KEYWORD,myip.ipip.net
+DOMAIN-KEYWORD,lucky.gd
 DOMAIN-KEYWORD,knx.1986007.xyz
 DOMAIN-KEYWORD,wyse.1986007.xyz
-DOMAIN-KEYWORD,lucky.gd
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
