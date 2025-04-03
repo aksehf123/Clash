@@ -53,7 +53,7 @@ custom_proxy_group=手动选择2`select`.*
 custom_proxy_group=手动选择3`select`.*
 custom_proxy_group=所有-自动`url-test`.*`http://www.gstatic.com/generate_204`60,150
 custom_proxy_group=香港-自动`url-test`(广港|香港|HK|Hong Kong|🇭🇰|HongKong)`http://www.gstatic.com/generate_204`60,150
-custom_proxy_group=香港-牛逼`url-test`(?=.*(香港0|香港1|流媒体解锁))^((?!(Netflix|中转|专线|Udp|SYYN|新加坡)).)*$`http://www.gstatic.com/generate_204`60,150
+custom_proxy_group=香港-牛逼`url-test`(?=.*(香港0|IPv6|流媒体解锁))^((?!(Netflix|中转|专线|Udp|SYYN|新加坡|测试)).)*$`http://www.gstatic.com/generate_204`60,150
 custom_proxy_group=新加坡-自动`url-test`(广新|新加坡|SG|坡|狮城|🇸🇬|Singapore)`http://www.gstatic.com/generate_204`60,150
 custom_proxy_group=新加坡-牛逼`url-test`(?=.*(新加坡0|流媒体解锁))^((?!(linode|Web|Tk|TK|GPT|Netflix|中转|专线|Udp|SYYN|香港)).)*$`http://www.gstatic.com/generate_204`60,150
 #custom_proxy_group=新加坡-SKY`url-test`(?=.*(新加坡))^((?!(linode|Web|Tk|TK|GPT|Netflix|中转|专线)).)*$`http://www.gstatic.com/generate_204`60,150
