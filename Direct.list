@@ -26,6 +26,7 @@ DOMAIN-SUFFIX,wyse.1986007.xyz
 DOMAIN-SUFFIX,wyse3.1986007.xyz
 DOMAIN-SUFFIX,jinkaodian.com
 DOMAIN-SUFFIX,bptv.freetv.top
+DOMAIN-SUFFIX,myip.ipip.net 
 
 
 # 域名关键字匹配
@@ -44,6 +45,7 @@ DOMAIN-KEYWORD,wyse.1986007.xyz
 DOMAIN-KEYWORD,wyse3.1986007.xyz
 DOMAIN-KEYWORD,jinkaodian
 DOMAIN-KEYWORD,freetv.top
+DOMAIN-KEYWORD,myip.ipip.net
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
