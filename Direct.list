@@ -25,9 +25,9 @@ DOMAIN-SUFFIX,knx.1986007.xyz
 DOMAIN-SUFFIX,wyse.1986007.xyz
 DOMAIN-SUFFIX,wyse3.1986007.xyz
 DOMAIN-SUFFIX,jinkaodian.com
-DOMAIN-SUFFIX,myip.ipip.net 
+DOMAIN-SUFFIX,myip.ipip.net
+DOMAIN-SUFFIX,r.inews.qq.com
 DOMAIN-SUFFIX,bptv.freetv.top
-
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
@@ -45,6 +45,7 @@ DOMAIN-KEYWORD,wyse.1986007.xyz
 DOMAIN-KEYWORD,wyse3.1986007.xyz
 DOMAIN-KEYWORD,jinkaodian
 DOMAIN-KEYWORD,myip.ipip.net
+DOMAIN-KEYWORD,r.inews.qq.com
 DOMAIN-KEYWORD,freetv.top
 
 # IP段匹配
