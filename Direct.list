@@ -28,6 +28,7 @@ DOMAIN-SUFFIX,jinkaodian.com
 DOMAIN-SUFFIX,myip.ipip.net
 DOMAIN-SUFFIX,r.inews.qq.com
 DOMAIN-SUFFIX,bptv.freetv.top
+DOMAIN-SUFFIX,xiyingnas.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
@@ -47,6 +48,7 @@ DOMAIN-KEYWORD,jinkaodian
 DOMAIN-KEYWORD,myip.ipip.net
 DOMAIN-KEYWORD,r.inews.qq.com
 DOMAIN-KEYWORD,freetv.top
+DOMAIN-KEYWORD,xiyingnas.com
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
