@@ -29,6 +29,8 @@ DOMAIN-SUFFIX,myip.ipip.net
 DOMAIN-SUFFIX,r.inews.qq.com
 DOMAIN-SUFFIX,bptv.freetv.top
 DOMAIN-SUFFIX,xiyingnas.com
+DOMAIN-SUFFIX,sysub.com
+DOMAIN-SUFFIX,sybbs.vip
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
@@ -49,6 +51,8 @@ DOMAIN-KEYWORD,myip.ipip.net
 DOMAIN-KEYWORD,r.inews.qq.com
 DOMAIN-KEYWORD,freetv.top
 DOMAIN-KEYWORD,xiyingnas.com
+DOMAIN-KEYWORD,sysub.com
+DOMAIN-KEYWORD,sybbs.vip
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
