@@ -10,16 +10,6 @@ DOMAIN-SUFFIX,hdymly.com
 DOMAIN-SUFFIX,xiukee.net
 DOMAIN-SUFFIX,xiukor.net
 DOMAIN-SUFFIX,pc528.net
-DOMAIN-SUFFIX,feiyangdigital.tg.ystenlive.ottdns.com
-DOMAIN-SUFFIX,feiyangdigital.tg.wasulive.ottdns.com
-DOMAIN-SUFFIX,feiyangdigital.tg.fifalive.ottdns.com
-DOMAIN-SUFFIX,ott.fifalive.cmdns.xyz
-DOMAIN-SUFFIX,iptv.wasulive.cmdns.xyz
-DOMAIN-SUFFIX,iptv.ystenlive.cmdns.xyz
-DOMAIN-SUFFIX,iptv.bestlive.cmdns.xyz
-DOMAIN-SUFFIX,iptv.fifalive.cmdns.xyz
-DOMAIN-SUFFIX,rptv.v1.mk
-DOMAIN-SUFFIX,myip.ipip.net
 DOMAIN-SUFFIX,lucky.gd
 DOMAIN-SUFFIX,knx.1986007.xyz
 DOMAIN-SUFFIX,wyse.1986007.xyz
@@ -27,21 +17,13 @@ DOMAIN-SUFFIX,wyse3.1986007.xyz
 DOMAIN-SUFFIX,jinkaodian.com
 DOMAIN-SUFFIX,myip.ipip.net
 DOMAIN-SUFFIX,r.inews.qq.com
-DOMAIN-SUFFIX,bptv.freetv.top
 DOMAIN-SUFFIX,xiyingnas.com
 DOMAIN-SUFFIX,sysub.com
 DOMAIN-SUFFIX,sybbs.vip
+DOMAIN-SUFFIX,mgtv.ottiptv.cc
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
-DOMAIN-KEYWORD,feiyangdigital
-DOMAIN-KEYWORD,ottdns.com
-DOMAIN-KEYWORD,ifalive.cmdns.xyz
-DOMAIN-KEYWORD,wasulive.cmdns.xyz
-DOMAIN-KEYWORD,ystenlive.cmdns.xyz
-DOMAIN-KEYWORD,bestlive.cmdns.xyz
-DOMAIN-KEYWORD,cmdns.xyz
-DOMAIN-KEYWORD,myip.ipip.net
 DOMAIN-KEYWORD,lucky.gd
 DOMAIN-KEYWORD,knx.1986007.xyz
 DOMAIN-KEYWORD,wyse.1986007.xyz
@@ -49,10 +31,10 @@ DOMAIN-KEYWORD,wyse3.1986007.xyz
 DOMAIN-KEYWORD,jinkaodian
 DOMAIN-KEYWORD,myip.ipip.net
 DOMAIN-KEYWORD,r.inews.qq.com
-DOMAIN-KEYWORD,freetv.top
 DOMAIN-KEYWORD,xiyingnas.com
 DOMAIN-KEYWORD,sysub.com
 DOMAIN-KEYWORD,sybbs.vip
+DOMAIN-KEYWORD,ottiptv.cc
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
