@@ -27,11 +27,11 @@ custom_proxy_group=🌍 GFW`select`[]DIRECT`[]手动Ⅰ`[]手动Ⅱ`[]香港`[]�
 #custom_proxy_group=👽 AI`select`[]DIRECT`[]手动Ⅰ`[]手动Ⅱ`[]香港`[]香港0.8倍`[]新加坡`[]美国`[]台湾`[]日本`[]日本Free`[]韩国`[]所有-自动`[]其他`[]下载专用`[]REJECT
 #custom_proxy_group=📘 GitHub`select`[]DIRECT`[]手动Ⅰ`[]手动Ⅱ`[]香港`[]香港0.8倍`[]新加坡`[]美国`[]台湾`[]日本`[]日本Free`[]韩国`[]所有-自动`[]其他`[]下载专用`[]REJECT
 #custom_proxy_group=👯‍♂️ TikTok`select`[]DIRECT`[]手动Ⅰ`[]手动Ⅱ`[]香港`[]香港0.8倍`[]新加坡`[]美国`[]台湾`[]日本`[]日本Free`[]韩国`[]所有-自动`[]其他`[]下载专用`[]REJECT
-custom_proxy_group=🙋 电报`select`[]DIRECT`[]手动Ⅰ`[]手动Ⅱ`[]香港`[]香港0.8倍`[]新加坡`[]美国`[]台湾`[]日本`[]日本Free`[]韩国`[]所有-自动`[]其他`[]下载专用`[]REJECT
 custom_proxy_group=📀 流媒体`select`[]DIRECT`[]手动Ⅰ`[]手动Ⅱ`[]香港`[]香港0.8倍`[]新加坡`[]美国`[]台湾`[]日本`[]日本Free`[]韩国`[]所有-自动`[]其他`[]下载专用`[]REJECT
+custom_proxy_group=🙋 电报`select`[]DIRECT`[]手动Ⅰ`[]手动Ⅱ`[]香港`[]香港0.8倍`[]新加坡`[]美国`[]台湾`[]日本`[]日本Free`[]韩国`[]所有-自动`[]其他`[]下载专用`[]REJECT
 custom_proxy_group=➡️ 国内`select`[]DIRECT`[]REJECT
-custom_proxy_group=🛑 广告拦截`select`[]REJECT`[]DIRECT
 custom_proxy_group=🐟 漏网之鱼`select`[]DIRECT`[]手动Ⅰ`[]手动Ⅱ`[]香港`[]香港0.8倍`[]新加坡`[]美国`[]台湾`[]日本`[]日本Free`[]韩国`[]所有-自动`[]其他`[]下载专用`[]REJECT
+custom_proxy_group=🛑 广告拦截`select`[]REJECT`[]DIRECT
 
 ;3、节点组
 custom_proxy_group=手动Ⅰ`select`.*
