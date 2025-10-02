@@ -35,8 +35,8 @@ custom_proxy_group=🛑 广告拦截`select`[]REJECT`[]DIRECT
 custom_proxy_group=🐟 漏网之鱼`select`[]DIRECT`[]手动1`[]手动2`[]所有-自动`[]香港`[]香港x0.8`[]新加坡`[]美国`[]台湾`[]日本`[]日本下载用`[]日本Free`[]韩国`[]其他`[]REJECT
 
 ;3、节点组
-custom_proxy_group=手动选择1`select`.*
-custom_proxy_group=手动选择2`select`.*
+custom_proxy_group=手动1`select`.*
+custom_proxy_group=手动2`select`.*
 custom_proxy_group=所有-自动`url-test`.*`http://www.gstatic.com/generate_204`60,150
 custom_proxy_group=香港`url-test`(?=.*(广港|香港|HK|Hong Kong|🇭🇰|HongKong))^((?!(x0.8)).)*$`http://www.gstatic.com/generate_204`60,150
 custom_proxy_group=香港x0.8`url-test`(?=.*(广港|香港|HK|Hong Kong|🇭🇰|HongKong|x0.8))^((?!(W01|IEPL)).)*$`http://www.gstatic.com/generate_204`60,150
