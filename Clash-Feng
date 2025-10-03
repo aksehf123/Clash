@@ -31,21 +31,21 @@ ruleset=➡️ 国内,[]GEOIP,CN,no-resolve
 ruleset=🐟 漏网之鱼,[]FINAL
 
 ;2、策略组（域名组-节点组）
-custom_proxy_group=🌍 国外`select`[]DIRECT`[]所有-自动`[]手动Ⅰ`[]手动Ⅱ`[]手动Ⅲ`[]iKuuu香港`[]iKuuu香港0.8倍`[]牛逼香港`[]FG香港`[]iKuuu新加坡`[]牛逼新加坡`[]FG新加坡`[]美国`[]台湾`[]iKuuu日本`[]所有-自动`[]其他-自动`[]下载专用`[]REJECT
-#custom_proxy_group=🚀 节点选择``select`[]DIRECT`[]所有-自动`[]手动Ⅰ`[]手动Ⅱ`[]手动Ⅲ`[]iKuuu香港`[]iKuuu香港0.8倍`[]牛逼香港`[]FG香港`[]iKuuu新加坡`[]牛逼新加坡`[]FG新加坡`[]美国`[]台湾`[]iKuuu日本`[]所有-自动`[]其他-自动`[]下载专用`[]REJECT
-#custom_proxy_group=📘 GitHub`select`[]DIRECT`[]所有-自动`[]手动Ⅰ`[]手动Ⅱ`[]手动Ⅲ`[]iKuuu香港`[]iKuuu香港0.8倍`[]牛逼香港`[]FG香港`[]iKuuu新加坡`[]牛逼新加坡`[]FG新加坡`[]美国`[]台湾`[]iKuuu日本`[]所有-自动`[]其他-自动`[]下载专用`[]REJECT
-custom_proxy_group=🌐 Google`select`[]DIRECT`[]所有-自动`[]手动Ⅰ`[]手动Ⅱ`[]手动Ⅲ`[]iKuuu香港`[]iKuuu香港0.8倍`[]牛逼香港`[]FG香港`[]iKuuu新加坡`[]牛逼新加坡`[]FG新加坡`[]美国`[]台湾`[]iKuuu日本`[]所有-自动`[]其他-自动`[]下载专用`[]REJECT
-custom_proxy_group=🎞️ 油管`select`[]DIRECT`[]所有-自动`[]手动Ⅰ`[]手动Ⅱ`[]手动Ⅲ`[]iKuuu香港`[]iKuuu香港0.8倍`[]牛逼香港`[]FG香港`[]iKuuu新加坡`[]牛逼新加坡`[]FG新加坡`[]美国`[]台湾`[]iKuuu日本`[]所有-自动`[]其他-自动`[]下载专用`[]REJECT
-custom_proxy_group=🎥 Netflix`select`[]DIRECT`[]所有-自动`[]手动Ⅰ`[]手动Ⅱ`[]手动Ⅲ`[]iKuuu香港`[]iKuuu香港0.8倍`[]牛逼香港`[]FG香港`[]iKuuu新加坡`[]牛逼新加坡`[]FG新加坡`[]美国`[]台湾`[]iKuuu日本`[]所有-自动`[]其他-自动`[]下载专用`[]REJECT
-#custom_proxy_group=📺 Disney`select`[]DIRECT`[]所有-自动`[]手动Ⅰ`[]手动Ⅱ`[]手动Ⅲ`[]iKuuu香港`[]iKuuu香港0.8倍`[]牛逼香港`[]FG香港`[]iKuuu新加坡`[]牛逼新加坡`[]FG新加坡`[]美国`[]台湾`[]iKuuu日本`[]所有-自动`[]其他-自动`[]下载专用`[]REJECT
-custom_proxy_group=📹 Emby`select`[]DIRECT`[]所有-自动`[]手动Ⅰ`[]手动Ⅱ`[]手动Ⅲ`[]iKuuu香港`[]iKuuu香港0.8倍`[]牛逼香港`[]FG香港`[]iKuuu新加坡`[]牛逼新加坡`[]FG新加坡`[]美国`[]台湾`[]iKuuu日本`[]所有-自动`[]其他-自动`[]下载专用`[]REJECT
-custom_proxy_group=🙋 电报`select`[]DIRECT`[]所有-自动`[]手动Ⅰ`[]手动Ⅱ`[]手动Ⅲ`[]iKuuu香港`[]iKuuu香港0.8倍`[]牛逼香港`[]FG香港`[]iKuuu新加坡`[]牛逼新加坡`[]FG新加坡`[]美国`[]台湾`[]iKuuu日本`[]所有-自动`[]其他-自动`[]下载专用`[]REJECT
+custom_proxy_group=🌍 国外`select`[]DIRECT`[]所有-自动`[]手动Ⅰ`[]手动Ⅱ`[]手动Ⅲ`[]iKuuu香港`[]iKuuu香港0.8倍`[]🐮香港`[]FG香港`[]iKuuu新加坡`[]🐮新加坡`[]FG新加坡`[]美国`[]台湾`[]iKuuu日本`[]所有-自动`[]其他-自动`[]下载专用`[]REJECT
+#custom_proxy_group=🚀 节点选择`select`[]DIRECT`[]所有-自动`[]手动Ⅰ`[]手动Ⅱ`[]手动Ⅲ`[]iKuuu香港`[]iKuuu香港0.8倍`[]🐮香港`[]FG香港`[]iKuuu新加坡`[]🐮新加坡`[]FG新加坡`[]美国`[]台湾`[]iKuuu日本`[]所有-自动`[]其他-自动`[]下载专用`[]REJECT
+#custom_proxy_group=📘 GitHub`select`[]DIRECT`[]所有-自动`[]手动Ⅰ`[]手动Ⅱ`[]手动Ⅲ`[]iKuuu香港`[]iKuuu香港0.8倍`[]🐮香港`[]FG香港`[]iKuuu新加坡`[]🐮新加坡`[]FG新加坡`[]美国`[]台湾`[]iKuuu日本`[]所有-自动`[]其他-自动`[]下载专用`[]REJECT
+custom_proxy_group=🌐 Google`select`[]DIRECT`[]所有-自动`[]手动Ⅰ`[]手动Ⅱ`[]手动Ⅲ`[]iKuuu香港`[]iKuuu香港0.8倍`[]🐮香港`[]FG香港`[]iKuuu新加坡`[]🐮新加坡`[]FG新加坡`[]美国`[]台湾`[]iKuuu日本`[]所有-自动`[]其他-自动`[]下载专用`[]REJECT
+custom_proxy_group=🎞️ 油管`select`[]DIRECT`[]所有-自动`[]手动Ⅰ`[]手动Ⅱ`[]手动Ⅲ`[]iKuuu香港`[]iKuuu香港0.8倍`[]🐮香港`[]FG香港`[]iKuuu新加坡`[]🐮新加坡`[]FG新加坡`[]美国`[]台湾`[]iKuuu日本`[]所有-自动`[]其他-自动`[]下载专用`[]REJECT
+custom_proxy_group=🎥 Netflix`select`[]DIRECT`[]所有-自动`[]手动Ⅰ`[]手动Ⅱ`[]手动Ⅲ`[]iKuuu香港`[]iKuuu香港0.8倍`[]🐮香港`[]FG香港`[]iKuuu新加坡`[]🐮新加坡`[]FG新加坡`[]美国`[]台湾`[]iKuuu日本`[]所有-自动`[]其他-自动`[]下载专用`[]REJECT
+#custom_proxy_group=📺 Disney`select`[]DIRECT`[]所有-自动`[]手动Ⅰ`[]手动Ⅱ`[]手动Ⅲ`[]iKuuu香港`[]iKuuu香港0.8倍`[]🐮香港`[]FG香港`[]iKuuu新加坡`[]🐮新加坡`[]FG新加坡`[]美国`[]台湾`[]iKuuu日本`[]所有-自动`[]其他-自动`[]下载专用`[]REJECT
+custom_proxy_group=📹 Emby`select`[]DIRECT`[]所有-自动`[]手动Ⅰ`[]手动Ⅱ`[]手动Ⅲ`[]iKuuu香港`[]iKuuu香港0.8倍`[]🐮香港`[]FG香港`[]iKuuu新加坡`[]🐮新加坡`[]FG新加坡`[]美国`[]台湾`[]iKuuu日本`[]所有-自动`[]其他-自动`[]下载专用`[]REJECT
+custom_proxy_group=🙋 电报`select`[]DIRECT`[]所有-自动`[]手动Ⅰ`[]手动Ⅱ`[]手动Ⅲ`[]iKuuu香港`[]iKuuu香港0.8倍`[]🐮香港`[]FG香港`[]iKuuu新加坡`[]🐮新加坡`[]FG新加坡`[]美国`[]台湾`[]iKuuu日本`[]所有-自动`[]其他-自动`[]下载专用`[]REJECT
 custom_proxy_group=👽 AI`select`[]DIRECT`[]所有-自动`[]手动Ⅰ`[]手动Ⅱ`[]手动Ⅲ`[]iKuuu香港`[]iKuuu香港0.8倍`[]牛逼香港`[]FG香港`[]iKuuu新加坡`[]牛逼新加坡`[]FG新加坡`[]美国`[]台湾`[]iKuuu日本`[]所有-自动`[]其他-自动`[]下载专用`[]REJECT
-#custom_proxy_group=👯‍♂️ TikTok`select`[]DIRECT`[]所有-自动`[]手动Ⅰ`[]手动Ⅱ`[]手动Ⅲ`[]iKuuu香港`[]iKuuu香港0.8倍`[]牛逼香港`[]FG香港`[]iKuuu新加坡`[]牛逼新加坡`[]FG新加坡`[]美国`[]台湾`[]iKuuu日本`[]所有-自动`[]其他-自动`[]下载专用`[]REJECT
-custom_proxy_group=🔞 XXX`select`[]DIRECT`[]所有-自动`[]手动Ⅰ`[]手动Ⅱ`[]手动Ⅲ`[]iKuuu香港`[]iKuuu香港0.8倍`[]牛逼香港`[]FG香港`[]iKuuu新加坡`[]牛逼新加坡`[]FG新加坡`[]美国`[]台湾`[]iKuuu日本`[]所有-自动`[]其他-自动`[]下载专用`[]REJECT
+#custom_proxy_group=👯‍♂️ TikTok`select`[]DIRECT`[]所有-自动`[]手动Ⅰ`[]手动Ⅱ`[]手动Ⅲ`[]iKuuu香港`[]iKuuu香港0.8倍`[]🐮香港`[]FG香港`[]iKuuu新加坡`[]🐮新加坡`[]FG新加坡`[]美国`[]台湾`[]iKuuu日本`[]所有-自动`[]其他-自动`[]下载专用`[]REJECT
+custom_proxy_group=🔞 XXX`select`[]DIRECT`[]所有-自动`[]手动Ⅰ`[]手动Ⅱ`[]手动Ⅲ`[]iKuuu香港`[]iKuuu香港0.8倍`[]🐮香港`[]FG香港`[]iKuuu新加坡`[]🐮新加坡`[]FG新加坡`[]美国`[]台湾`[]iKuuu日本`[]所有-自动`[]其他-自动`[]下载专用`[]REJECT
 custom_proxy_group=➡️ 国内`select`[]DIRECT`[]REJECT
 custom_proxy_group=🛑 广告拦截`select`[]REJECT`[]DIRECT
-custom_proxy_group=🐟 漏网之鱼`select`[]DIRECT`[]所有-自动`[]手动Ⅰ`[]手动Ⅱ`[]手动Ⅲ`[]iKuuu香港`[]iKuuu香港0.8倍`[]牛逼香港`[]FG香港`[]iKuuu新加坡`[]牛逼新加坡`[]FG新加坡`[]美国`[]台湾`[]iKuuu日本`[]所有-自动`[]其他-自动`[]下载专用`[]REJECT
+custom_proxy_group=🐟 漏网之鱼`select`[]DIRECT`[]所有-自动`[]手动Ⅰ`[]手动Ⅱ`[]手动Ⅲ`[]iKuuu香港`[]iKuuu香港0.8倍`[]🐮香港`[]FG香港`[]iKuuu新加坡`[]🐮新加坡`[]FG新加坡`[]美国`[]台湾`[]iKuuu日本`[]所有-自动`[]其他-自动`[]下载专用`[]REJECT
 
 ;3、节点组
 custom_proxy_group=手动Ⅰ`select`.*
@@ -53,11 +53,11 @@ custom_proxy_group=手动Ⅱ`select`.*
 custom_proxy_group=手动Ⅲ`select`.*
 custom_proxy_group=iKuuu香港`url-test`(?=.*(香港W|IEPL))^((?!(x0.8|日本|新加坡|台湾|美国)).)*$`http://www.gstatic.com/generate_204`60,150
 custom_proxy_group=iKuuu香港0.8倍`url-test`(?=.*(香港W|x0.8))^((?!(W01|IEPL|日本)).)*$`http://www.gstatic.com/generate_204`60,150
-custom_proxy_group=牛逼香港`url-test`(?=.*(🇭🇰香港0|IPv6|流媒体解锁))^((?!(Netflix|中转|专线|Udp|SYYN|新加坡|测试|日本|台湾)).)*$`http://www.gstatic.com/generate_204`60,150
+custom_proxy_group=🐮香港`url-test`(?=.*(🇭🇰香港0|IPv6|流媒体解锁))^((?!(Netflix|中转|专线|Udp|SYYN|新加坡|测试|日本|台湾)).)*$`http://www.gstatic.com/generate_204`60,150
 custom_proxy_group=FG香港`url-test`(?=.*(HK 香港 01|HK 香港 02))^((?!(Hy2|linode|Web|Tk|TK|GPT|Netflix|中转|专线|Udp|SYYN|后端|香港-)).)*$`http://www.gstatic.com/generate_204`120,,50
 #custom_proxy_group=FG香港`load-balance`(?=.*(HK 香港))^((?!(linode|Web|Tk|TK|GPT|Netflix|中转|专线|Udp|SYYN|后端|香港-)).)*$`http://www.gstatic.com/generate_204`120,,50
 custom_proxy_group=iKuuu新加坡`url-test`(新加坡W0)`http://www.gstatic.com/generate_204`60,150
-custom_proxy_group=牛逼新加坡`url-test`(?=.*(🇸🇬新加坡0|流媒体解锁))^((?!(linode|Web|Tk|TK|GPT|Netflix|中转|专线|Udp|SYYN|香港)).)*$`http://www.gstatic.com/generate_204`60,150
+custom_proxy_group=🐮新加坡`url-test`(?=.*(🇸🇬新加坡0|流媒体解锁))^((?!(linode|Web|Tk|TK|GPT|Netflix|中转|专线|Udp|SYYN|香港)).)*$`http://www.gstatic.com/generate_204`60,150
 custom_proxy_group=FG新加坡`url-test`(?=.*(SG 新加坡 01|SG 新加坡 02))^((?!(Hy2|linode|Web|Tk|TK|GPT|Netflix|中转|专线|Udp|SYYN|后端|新加坡-|日本|台湾|美国)).)*$`http://www.gstatic.com/generate_204`120,,50
 #custom_proxy_group=iKuuu负载`load-balance`(?=.*(免费-|免费))^((?!(linode|Web|Tk|TK|GPT|Netflix|中转|专线)).)*$`http://www.gstatic.com/generate_204`120,,50
 #custom_proxy_group=美国-自动`url-test`(广美|美|US|纽约|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|🇺🇸|United States)`http://www.gstatic.com/generate_204`60,150
