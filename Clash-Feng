@@ -63,7 +63,7 @@ custom_proxy_group=FG新加坡`url-test`(?=.*(SG 新加坡 01|SG 新加坡 02))^
 #custom_proxy_group=美国-自动`url-test`(广美|美|US|纽约|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|🇺🇸|United States)`http://www.gstatic.com/generate_204`60,150
 custom_proxy_group=美国`url-test`(?=.*(美国|广美|美|US|纽约|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|🇺🇸|United States))^((?!(None)).)*$`http://www.gstatic.com/generate_204`60,150
 custom_proxy_group=台湾`url-test`(广台|台湾|TW|Tai Wan|🇹🇼|🇨🇳|TaiWan)`http://www.gstatic.com/generate_204`60,150
-custom_proxy_group=日本`url-test`(?=.*(日本W|IEPL))^((?!(免费|下载专用)).)*$`http://www.gstatic.com/generate_204`60,150
+custom_proxy_group=日本`url-test`(?=.*(日本W|IEPL))^((?!(免费|下载专用|香港|台湾|新加坡|美国)).)*$`http://www.gstatic.com/generate_204`60,150
 custom_proxy_group=日本Free`url-test`(?=.*(免费))^((?!(IEPL|W01|x0.8|下载专用)).)*$`http://www.gstatic.com/generate_204`60,150
 #custom_proxy_group=日本-自动`url-test`(广日|日本|JP|川日|东京|大阪|泉日|埼玉|深日|🇯🇵|Japan)`http://www.gstatic.com/generate_204`60,150
 #custom_proxy_group=韩国-自动`url-test`(广韩|韩国|KR|首尔|春川|🇰🇷|Korea)`http://www.gstatic.com/generate_204`60,150
