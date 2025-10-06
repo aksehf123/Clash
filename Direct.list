@@ -22,6 +22,7 @@ DOMAIN-SUFFIX,sysub.com
 DOMAIN-SUFFIX,sybbs.vip
 DOMAIN-SUFFIX,mgtv.ottiptv.cc
 DOMAIN-SUFFIX,live.ottiptv.cc
+DOMAIN-SUFFIX,panyq.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
@@ -36,6 +37,7 @@ DOMAIN-KEYWORD,xiyingnas.com
 DOMAIN-KEYWORD,sysub.com
 DOMAIN-KEYWORD,sybbs.vip
 DOMAIN-KEYWORD,ottiptv.cc
+DOMAIN-KEYWORD,panyq.com
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
