@@ -53,13 +53,13 @@ custom_proxy_group=🐟 漏网之鱼`select`[]DIRECT`[]手动Ⅰ`[]手动Ⅱ`[]�
 custom_proxy_group=手动Ⅰ`select`.*
 custom_proxy_group=手动Ⅱ`select`.*
 custom_proxy_group=手动Ⅲ`select`.*
-custom_proxy_group=🐮🐶HK`load-balance`(?=.*(香港0|流媒体解锁|HK))^((?!(台湾|韩国|美国|日本|新加坡|IPv6|W|IEPL|备用|测试)).)*$`http://www.gstatic.com/generate_204`120,,50
+custom_proxy_group=🐮🐶HK`load-balance`(?=.*(香港0|流媒体解锁|HK))^((?!(台湾|韩国|美国|日本|新加坡|中转|IPv6|W|IEPL|备用|测试)).)*$`http://www.gstatic.com/generate_204`120,,50
 custom_proxy_group=iKuuu香港`url-test`(?=.*(香港W|IEPL))^((?!(x0.8|日本|新加坡|台湾|美国)).)*$`http://www.gstatic.com/generate_204`60,150
 custom_proxy_group=iKuuu香港x0.8`url-test`(?=.*(香港W|x0.8))^((?!(W01|IEPL|日本|新加坡|台湾|美国)).)*$`http://www.gstatic.com/generate_204`60,150
 #custom_proxy_group=🐮香港`url-test`(?=.*(香港0|IPv6|流媒体解锁))^((?!(香港W|HK|新加坡|测试|日本|台湾|美国)).)*$`http://www.gstatic.com/generate_204`60,150
 custom_proxy_group=FG香港`load-balance`(?=.*(HK 中转))^((?!(Hy2|专线|后端|香港-|USA|JP|TW|SG)).)*$`http://www.gstatic.com/generate_204`120,,50
 #custom_proxy_group=FG香港`load-balance`(?=.*(HK 中转))^((?!(linode|Web|Tk|TK|GPT|Netflix|中转|专线|Udp|SYYN|后端|香港-)).)*$`http://www.gstatic.com/generate_204`120,,50
-custom_proxy_group=🐮🐶SG`load-balance`(?=.*(新加坡0|流媒体解锁|SG))^((?!(03|04|台湾|韩国|美国|日本|香港|IPv6|W|IEPL|备用|测试)).)*$`http://www.gstatic.com/generate_204`120,,50
+custom_proxy_group=🐮🐶SG`load-balance`(?=.*(新加坡0|流媒体解锁|SG))^((?!(03|04|台湾|韩国|美国|日本|香港|中转|IPv6|W|IEPL|备用|测试)).)*$`http://www.gstatic.com/generate_204`120,,50
 custom_proxy_group=iKuuu新加坡`url-test`(新加坡W0)`http://www.gstatic.com/generate_204`60,150
 #custom_proxy_group=🐮新加坡`url-test`(?=.*(新加坡0|流媒体解锁))^((?!(新加坡W|SG|中转|专线|香港|日本|台湾|美国)).)*$`http://www.gstatic.com/generate_204`60,150
 custom_proxy_group=FG新加坡`load-balance`(?=.*(SG 中转))^((?!(Hy2|专线|后端|新加坡-|日本|台湾|美国|USA|JP|TW|HK)).)*$`http://www.gstatic.com/generate_204`120,,50
