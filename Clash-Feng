@@ -62,7 +62,7 @@ custom_proxy_group=FG香港`url-test`(?=.*(中转))^((?!(Hy2|专线|后端|香�
 custom_proxy_group=🐮🐶SG`load-balance`(?=.*(新加坡0|流媒体解锁|SG))^((?!(03|04|台湾|韩国|美国|日本|香港|IPv6|W|IEPL|备用|测试)).)*$`http://www.gstatic.com/generate_204`120,,50
 custom_proxy_group=iKuuu新加坡`url-test`(新加坡W0)`http://www.gstatic.com/generate_204`60,150
 #custom_proxy_group=🐮新加坡`url-test`(?=.*(新加坡0|流媒体解锁))^((?!(新加坡W|SG|中转|专线|香港|日本|台湾|美国)).)*$`http://www.gstatic.com/generate_204`60,150
-custom_proxy_group=FG新加坡`url-test`(?=.*(中转))^((?!(USA|JP|TW|HK)).)*$`http://www.gstatic.com/generate_204`120,,50
+custom_proxy_group=FG新加坡`url-test`(?=.*(SG))^((?!(USA|JP|TW|HK)).)*$`http://www.gstatic.com/generate_204`120,,50
 #custom_proxy_group=iKuuu负载`load-balance`(?=.*(免费-|免费))^((?!(linode|Web|Tk|TK|GPT|Netflix|中转|专线)).)*$`http://www.gstatic.com/generate_204`120,,50
 #custom_proxy_group=美国-自动`url-test`(广美|美|US|纽约|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|🇺🇸|United States)`http://www.gstatic.com/generate_204`60,150
 custom_proxy_group=美国`url-test`(?=.*(美国|广美|美|US|纽约|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|🇺🇸|United States))^((?!(None)).)*$`http://www.gstatic.com/generate_204`60,150
