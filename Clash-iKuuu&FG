@@ -50,8 +50,8 @@ custom_proxy_group=🐟 漏网之鱼`select`[]DIRECT`[]手动Ⅰ`[]手动Ⅱ`[]�
 custom_proxy_group=手动Ⅰ`select`.*
 custom_proxy_group=手动Ⅱ`select`.*
 custom_proxy_group=手动Ⅲ`select`.*
-custom_proxy_group=iKu香港`url-test`(?=.*(香港W|IEPL))^((?!(x0.8|日本|新加坡|台湾|美国)).)*$`http://www.gstatic.com/generate_204`60,150
-custom_proxy_group=iKu香港x0.8`url-test`(?=.*(香港W|x0.8))^((?!(W01|IEPL|日本|新加坡|台湾|美国)).)*$`http://www.gstatic.com/generate_204`60,150
+custom_proxy_group=iK香港`url-test`(?=.*(香港W|IEPL))^((?!(x0.8|日本|新加坡|台湾|美国)).)*$`http://www.gstatic.com/generate_204`60,150
+custom_proxy_group=iK香港x0.8`url-test`(?=.*(香港W|x0.8))^((?!(W01|IEPL|日本|新加坡|台湾|美国)).)*$`http://www.gstatic.com/generate_204`60,150
 custom_proxy_group=FG香港`url-test`(?=.*(HK 中转))^((?!(Hy2|专线|后端|香港-|USA|JP|TW|SG)).)*$`http://www.gstatic.com/generate_204`120,,50
 #custom_proxy_group=FG香港`load-balance`(?=.*(HK 中转))^((?!(Hy2|专线|后端|香港-|USA|JP|TW|SG)).)*$`http://www.gstatic.com/generate_204`120,,50
 custom_proxy_group=FG香港x0.5`url-test`(?=.*(HK))^((?!(Hy2|后端|中转)).)*$`http://www.gstatic.com/generate_204`120,,50
