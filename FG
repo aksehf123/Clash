@@ -40,7 +40,7 @@ custom_proxy_group=手动Ⅰ`select`.*
 custom_proxy_group=手动Ⅱ`select`.*
 custom_proxy_group=香港`url-test`(?=.*(广港|HK 中转|Hong Kong|HongKong))^((?!(x0.5|备用)).)*$`http://www.gstatic.com/generate_204`60,150
 custom_proxy_group=香港0.5倍`url-test`(?=.*(广港|香港|Hong Kong|HongKong|x0.5))^((?!(中转|IEPL|日本)).)*$`http://www.gstatic.com/generate_204`60,150
-custom_proxy_group=新加坡`url-test`(?=.*(广新|SG 中转|坡|狮城|Singapore))^((?!(中转|备用|日本)).)*$`http://www.gstatic.com/generate_204`60,150
+custom_proxy_group=新加坡`url-test`(?=.*(广新|SG 中转|狮城|Singapore))^((?!(Hy2|备用|日本)).)*$`http://www.gstatic.com/generate_204`60,150
 custom_proxy_group=新加坡0.5倍`url-test`(?=.*(广新|新加坡|狮城|Singapore))^((?!(中转|备用|日本)).)*$`http://www.gstatic.com/generate_204`60,150
 #custom_proxy_group=美国`url-test`(广美|美|US|纽约|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|🇺🇸|United States)`http://www.gstatic.com/generate_204`60,150
 custom_proxy_group=美国`url-test`(?=.*(广美|美|US|纽约|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|🇺🇸|United States))^((?!(None)).)*$`http://www.gstatic.com/generate_204`60,150
