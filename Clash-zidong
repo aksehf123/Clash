@@ -5,6 +5,8 @@ ruleset=🛑 广告拦截,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/mast
 #ruleset=🛑 广告拦截,https://gh-proxy.com/raw.githubusercontent.com/ACL4SSR/ACL4SSR/refs/heads/master/Clash/BanEasyListChina.list
 #ruleset=🛑 广告拦截,https://gh-proxy.com/raw.githubusercontent.com/ACL4SSR/ACL4SSR/refs/heads/master/Clash/BanEasyPrivacy.list
 ruleset=🛑 广告拦截,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanProgramAD.list
+ruleset=👽 AI,https://gh-proxy.com/raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/AI.list
+ruleset=👽 AI,https://gh-proxy.com/raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/AI2.list
 ruleset=➡️ 国内,https://raw.githubusercontent.com/aksehf123/Clash/refs/heads/main/Direct.list
 ruleset=➡️ 国内,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Xunlei/Xunlei.list
 #ruleset=➡️ 国内,https://gh-proxy.com/raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/GoogleCN.list
@@ -27,7 +29,7 @@ ruleset=🐟 漏网之鱼,[]FINAL
 ;2、策略组（域名组-节点组）
 custom_proxy_group=🌍 GFW`select`[]DIRECT`[]手动Ⅰ`[]手动Ⅱ`[]香港`[]新加坡`[]美国`[]台湾`[]日本`[]韩国`[]所有-自动`[]其他`[]REJECT
 #custom_proxy_group=🚀 节点选择`select`[]DIRECT`[]手动Ⅰ`[]手动Ⅱ`[]香港`[]新加坡`[]美国`[]台湾`[]日本`[]韩国`[]所有-自动`[]其他`[]REJECT
-#custom_proxy_group=👽 OpenAI`select`[]DIRECT`[]手动Ⅰ`[]手动Ⅱ`[]香港`[]新加坡`[]美国`[]台湾`[]日本`[]韩国`[]所有-自动`[]其他`[]REJECT
+custom_proxy_group=👽 AI`select`[]DIRECT`[]手动Ⅰ`[]手动Ⅱ`[]香港`[]新加坡`[]美国`[]台湾`[]日本`[]韩国`[]所有-自动`[]其他`[]REJECT
 #custom_proxy_group=📘 GitHub`select`[]DIRECT`[]手动Ⅰ`[]手动Ⅱ`[]香港`[]新加坡`[]美国`[]台湾`[]日本`[]韩国`[]所有-自动`[]其他`[]REJECT
 #custom_proxy_group=👯‍♂️ TikTok`select`[]DIRECT`[]手动Ⅰ`[]手动Ⅱ`[]香港`[]新加坡`[]美国`[]台湾`[]日本`[]韩国`[]所有-自动`[]其他`[]REJECT
 custom_proxy_group=🙋 电报`select`[]DIRECT`[]手动Ⅰ`[]手动Ⅱ`[]香港`[]新加坡`[]美国`[]台湾`[]日本`[]韩国`[]所有-自动`[]其他`[]REJECT
