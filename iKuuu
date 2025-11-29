@@ -41,7 +41,7 @@ custom_proxy_group=🛑 广告拦截`select`[]REJECT`[]DIRECT
 ;3、节点组
 custom_proxy_group=手动Ⅰ`select`.*
 custom_proxy_group=手动Ⅱ`select`.*
-custom_proxy_group=SKY`url-test`(?=.*(广港|香港|HK|Hong Kong|🇭🇰|HongKong))^((?!(x0.8|IEPL|日本)).)*$`http://www.gstatic.com/generate_204`60,150
+custom_proxy_group=SKY`url-test`(?=.*(广港|香港|HK|Hong Kong|🇭🇰|HongKong))^((?!(W01|x0.8|IEPL|日本)).)*$`http://www.gstatic.com/generate_204`60,150
 custom_proxy_group=香港`url-test`(?=.*(广港|香港|HK|Hong Kong|🇭🇰|HongKong))^((?!(x0.8|-TK)).)*$`http://www.gstatic.com/generate_204`60,150
 custom_proxy_group=0.8香港`url-test`(?=.*(广港|香港|HK|Hong Kong|🇭🇰|HongKong|x0.8))^((?!(W01|IEPL|日本|-TK)).)*$`http://www.gstatic.com/generate_204`60,150
 custom_proxy_group=新加坡`url-test`(广新|新加坡|SG|坡|狮城|🇸🇬|Singapore)`http://www.gstatic.com/generate_204`60,150
