@@ -25,17 +25,17 @@ ruleset=➡️ 国内,[]GEOIP,CN,no-resolve
 ruleset=🐟 漏网之鱼,[]FINAL
 
 ;2、策略组（域名组-节点组）
-custom_proxy_group=🌍 GFW`select`[]DIRECT`[]手动Ⅰ`[]手动Ⅱ`[]梯神`[]香港`[]0.8香港`[]新加坡`[]美国`[]台湾`[]日本`[]日本Free`[]韩国`[]所有-自动`[]其他`[]下载专用`[]REJECT
-#custom_proxy_group=🚀 节点选择`select`[]DIRECT`[]手动Ⅰ`[]手动Ⅱ`[]梯神`[]香港`[]0.8香港`[]新加坡`[]美国`[]台湾`[]日本`[]日本Free`[]韩国`[]所有-自动`[]其他`[]下载专用`[]REJECT
-#custom_proxy_group=👽 AI`select`[]DIRECT`[]手动Ⅰ`[]手动Ⅱ`[]梯神`[]香港`[]0.8香港`[]新加坡`[]美国`[]台湾`[]日本`[]日本Free`[]韩国`[]所有-自动`[]其他`[]下载专用`[]REJECT
-#custom_proxy_group=📘 GitHub`select`[]DIRECT`[]手动Ⅰ`[]手动Ⅱ`[]梯神`[]香港`[]0.8香港`[]新加坡`[]美国`[]台湾`[]日本`[]日本Free`[]韩国`[]所有-自动`[]其他`[]下载专用`[]REJECT
-#custom_proxy_group=👯‍♂️ TikTok`select`[]DIRECT`[]手动Ⅰ`[]手动Ⅱ`[]梯神`[]香港`[]0.8香港`[]新加坡`[]美国`[]台湾`[]日本`[]日本Free`[]韩国`[]所有-自动`[]其他`[]下载专用`[]REJECT
-custom_proxy_group=📀 网飞`select`[]DIRECT`[]手动Ⅰ`[]手动Ⅱ`[]梯神`[]香港`[]0.8香港`[]新加坡`[]美国`[]台湾`[]日本`[]日本Free`[]韩国`[]所有-自动`[]其他`[]下载专用`[]REJECT
-custom_proxy_group=📺 油管`select`[]DIRECT`[]手动Ⅰ`[]手动Ⅱ`[]梯神`[]香港`[]0.8香港`[]新加坡`[]美国`[]台湾`[]日本`[]日本Free`[]韩国`[]所有-自动`[]其他`[]下载专用`[]REJECT
-custom_proxy_group=🙋 电报`select`[]DIRECT`[]手动Ⅰ`[]手动Ⅱ`[]梯神`[]香港`[]0.8香港`[]新加坡`[]美国`[]台湾`[]日本`[]日本Free`[]韩国`[]所有-自动`[]其他`[]下载专用`[]REJECT
-custom_proxy_group=🔞 XXX`select`[]DIRECT`[]手动Ⅰ`[]手动Ⅱ`[]梯神`[]香港`[]0.8香港`[]新加坡`[]美国`[]台湾`[]日本`[]日本Free`[]韩国`[]所有-自动`[]其他`[]下载专用`[]REJECT
+custom_proxy_group=🌍 GFW`select`[]DIRECT`[]手动Ⅰ`[]手动Ⅱ`[]梯神`[]香港`[]0.8香港`[]新加坡`[]美国`[]台湾`[]日本`[]韩国`[]所有-自动`[]其他`[]下载专用`[]REJECT
+#custom_proxy_group=🚀 节点选择`select`[]DIRECT`[]手动Ⅰ`[]手动Ⅱ`[]梯神`[]香港`[]0.8香港`[]新加坡`[]美国`[]台湾`[]日本`[]韩国`[]所有-自动`[]其他`[]下载专用`[]REJECT
+#custom_proxy_group=👽 AI`select`[]DIRECT`[]手动Ⅰ`[]手动Ⅱ`[]梯神`[]香港`[]0.8香港`[]新加坡`[]美国`[]台湾`[]日本`[]韩国`[]所有-自动`[]其他`[]下载专用`[]REJECT
+#custom_proxy_group=📘 GitHub`select`[]DIRECT`[]手动Ⅰ`[]手动Ⅱ`[]梯神`[]香港`[]0.8香港`[]新加坡`[]美国`[]台湾`[]日本`[]韩国`[]所有-自动`[]其他`[]下载专用`[]REJECT
+#custom_proxy_group=👯‍♂️ TikTok`select`[]DIRECT`[]手动Ⅰ`[]手动Ⅱ`[]梯神`[]香港`[]0.8香港`[]新加坡`[]美国`[]台湾`[]日本`[]韩国`[]所有-自动`[]其他`[]下载专用`[]REJECT
+custom_proxy_group=📀 网飞`select`[]DIRECT`[]手动Ⅰ`[]手动Ⅱ`[]梯神`[]香港`[]0.8香港`[]新加坡`[]美国`[]台湾`[]日本`[]韩国`[]所有-自动`[]其他`[]下载专用`[]REJECT
+custom_proxy_group=📺 油管`select`[]DIRECT`[]手动Ⅰ`[]手动Ⅱ`[]梯神`[]香港`[]0.8香港`[]新加坡`[]美国`[]台湾`[]日本`[]韩国`[]所有-自动`[]其他`[]下载专用`[]REJECT
+custom_proxy_group=🙋 电报`select`[]DIRECT`[]手动Ⅰ`[]手动Ⅱ`[]梯神`[]香港`[]0.8香港`[]新加坡`[]美国`[]台湾`[]日本`[]韩国`[]所有-自动`[]其他`[]下载专用`[]REJECT
+custom_proxy_group=🔞 XXX`select`[]DIRECT`[]手动Ⅰ`[]手动Ⅱ`[]梯神`[]香港`[]0.8香港`[]新加坡`[]美国`[]台湾`[]日本`[]韩国`[]所有-自动`[]其他`[]下载专用`[]REJECT
 custom_proxy_group=➡️ 国内`select`[]DIRECT`[]REJECT
-custom_proxy_group=🐟 漏网之鱼`select`[]DIRECT`[]手动Ⅰ`[]手动Ⅱ`[]梯神`[]香港`[]0.8香港`[]新加坡`[]美国`[]台湾`[]日本`[]日本Free`[]韩国`[]所有-自动`[]其他`[]下载专用`[]REJECT
+custom_proxy_group=🐟 漏网之鱼`select`[]DIRECT`[]手动Ⅰ`[]手动Ⅱ`[]梯神`[]香港`[]0.8香港`[]新加坡`[]美国`[]台湾`[]日本`[]韩国`[]所有-自动`[]其他`[]下载专用`[]REJECT
 custom_proxy_group=🛑 广告拦截`select`[]REJECT`[]DIRECT
 
 ;3、节点组
@@ -49,9 +49,9 @@ custom_proxy_group=新加坡`url-test`(?=.*(广新|新加坡|SG|坡|狮城|🇸�
 custom_proxy_group=美国`url-test`(?=.*(广美|美|US|纽约|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|🇺🇸|United States))^((?!(None|中继|家宽)).)*$`http://www.gstatic.com/generate_204`60,150
 custom_proxy_group=台湾`url-test`(?=.*(广台|台湾|TW|Tai Wan|🇹🇼|🇨🇳|TaiWan))^((?!(中继|家宽)).)*$`http://www.gstatic.com/generate_204`60,150
 custom_proxy_group=日本`url-test`(?=.*(广日|日本|JP|川日|东京|大阪|泉日|埼玉|深日|🇯🇵|Japan))^((?!(免费|下载专用|中继|家宽)).)*$`http://www.gstatic.com/generate_204`60,150
-custom_proxy_group=日本Free`url-test`(?=.*(广日|日本|JP|川日|东京|大阪|泉日|埼玉|深日|🇯🇵|Japan))^((?!(IEPL|W01|x0.8|下载专用|中继|家宽)).)*$`http://www.gstatic.com/generate_204`60,150
+#custom_proxy_group=日本Free`url-test`(?=.*(广日|日本|JP|川日|东京|大阪|泉日|埼玉|深日|🇯🇵|Japan))^((?!(IEPL|W01|x0.8|下载专用|中继|家宽)).)*$`http://www.gstatic.com/generate_204`60,150
 custom_proxy_group=韩国`url-test`(?=.*(广韩|韩国|KR|首尔|春川|🇰🇷|Korea))^((?!(中继|家宽)).)*$`http://www.gstatic.com/generate_204`60,150
-custom_proxy_group=所有-自动`url-test`^((?!(TK|DS|NF|AI|剩余流量|距离下次|套餐到期|中继|家宽)).)*$`http://www.gstatic.com/generate_204`60,150
+custom_proxy_group=所有-自动`url-test`^((?!(剩余流量|距离下次|套餐到期|中继|家宽)).)*$`http://www.gstatic.com/generate_204`60,150
 custom_proxy_group=其他`url-test`(剩余流量|柬埔|斯坦|尼泊|也纳|克兰|土耳其|比利时|尔兰|立陶宛|冰岛|秘鲁|耳其|利亚|埃及|希腊|斯洛伐克|孟加|芬兰|阿联|英国|德国|南非|意大|法国|加拿|墨西|印度|越南|罗斯|瑞士|瑞典|智利|荷兰|比亚|巴西|沙特|班牙|泰国)`http://www.gstatic.com/generate_204`60,150
 custom_proxy_group=下载专用`url-test`(?=.*(广日|日本|JP|川日|东京|大阪|泉日|埼玉|深日|🇯🇵|Japan|0.1))^((?!(IEPL|W01|0.8|免费|中继|家宽)).)*$`http://www.gstatic.com/generate_204`60,150
 
