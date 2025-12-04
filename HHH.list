@@ -13,7 +13,7 @@ DOMAIN-SUFFIX,phncdn.com
 DOMAIN-SUFFIX,phprcdn.com
 DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,pornhubpremium.com
-
+DOMAIN-SUFFIX,brazzers.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,stripchat
@@ -21,6 +21,7 @@ DOMAIN-KEYWORD,strpst
 DOMAIN-KEYWORD,doppiocdn
 DOMAIN-KEYWORD,mat6tube
 DOMAIN-KEYWORD,pvvstream
+DOMAIN-KEYWORD,brazzers.com
 
 # IP段匹配
 # IP-CIDR,219.146.1.66/32,no-resolve
