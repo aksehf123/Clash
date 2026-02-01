@@ -6,9 +6,9 @@ DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
 # DOMAIN-SUFFIX,xn--ngstr-lra8j.com 
-DOMAIN-SUFFIX,hdymly.com
+DOMAIN-SUFFIX,ymlyhd.com
 DOMAIN-SUFFIX,xiukee.net
-DOMAIN-SUFFIX,xiukor.net
+DOMAIN-SUFFIX,hdsay.net
 DOMAIN-SUFFIX,pc528.net
 DOMAIN-SUFFIX,lucky.gd
 DOMAIN-SUFFIX,knx.1986007.xyz
@@ -30,6 +30,8 @@ DOMAIN-SUFFIX,kanqiu20.com
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,lucky.gd
+DOMAIN-KEYWORD,pc528.net
+DOMAIN-KEYWORD,ymlyhd.com
 DOMAIN-KEYWORD,knx.1986007.xyz
 DOMAIN-KEYWORD,wyse.1986007.xyz
 DOMAIN-KEYWORD,fst.1986007.xyz
