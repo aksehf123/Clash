@@ -27,6 +27,7 @@ DOMAIN-SUFFIX,mgtv.ottiptv.cc
 DOMAIN-SUFFIX,live.ottiptv.cc
 DOMAIN-SUFFIX,panyq.com
 DOMAIN-SUFFIX,kanqiu20.com
+DOMAIN-SUFFIX,psxf.zeabur.app
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
@@ -48,6 +49,7 @@ DOMAIN-KEYWORD,sybbs.vip
 DOMAIN-KEYWORD,ottiptv.cc
 DOMAIN-KEYWORD,panyq.com
 DOMAIN-KEYWORD,kanqiu20.com
+DOMAIN-KEYWORD,psxf.zeabur.app
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
