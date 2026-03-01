@@ -29,6 +29,7 @@ DOMAIN-SUFFIX,panyq.com
 DOMAIN-SUFFIX,kanqiu20.com
 DOMAIN-SUFFIX,psxf.zeabur.app
 DOMAIN-SUFFIX,tvxf.zeabur.app
+DOMAIN-SUFFIX,gexf.zeabur.app
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
@@ -52,6 +53,7 @@ DOMAIN-KEYWORD,panyq.com
 DOMAIN-KEYWORD,kanqiu20.com
 DOMAIN-KEYWORD,psxf.zeabur.app
 DOMAIN-KEYWORD,tvxf.zeabur.app
+DOMAIN-KEYWORD,gexf.zeabur.app
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
