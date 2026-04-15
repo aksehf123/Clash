@@ -30,6 +30,7 @@ DOMAIN-SUFFIX,kanqiu20.com
 DOMAIN-SUFFIX,psxf.zeabur.app
 DOMAIN-SUFFIX,tvxf.zeabur.app
 DOMAIN-SUFFIX,gexf.zeabur.app
+DOMAIN-SUFFIX,guangyapan.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
@@ -54,6 +55,7 @@ DOMAIN-KEYWORD,kanqiu20.com
 DOMAIN-KEYWORD,psxf.zeabur.app
 DOMAIN-KEYWORD,tvxf.zeabur.app
 DOMAIN-KEYWORD,gexf.zeabur.app
+DOMAIN-KEYWORD,guangyapan.com
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
