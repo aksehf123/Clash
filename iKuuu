@@ -44,7 +44,7 @@ custom_proxy_group=🛑 广告拦截`select`[]REJECT`[]DIRECT
 custom_proxy_group=手动Ⅰ`select`.*
 custom_proxy_group=手动Ⅱ`select`.*
 custom_proxy_group=Cf优选`url-test`(?=.*(官方优选))^((?!(W01|x0.8|IEPL|日本|专线|中转)).)*$`http://www.gstatic.com/generate_204`60,150
-custom_proxy_group=梯神🇭🇰`url-test`(?=.*(香港 01|香港 02|香港 03|香港 04|))^((?!(W01|x0.8|IEPL|日本|专线|中转|家宽|测试)).)*$`http://www.gstatic.com/generate_204`60,150
+custom_proxy_group=梯神🇭🇰`url-test`(?=.*(香港 01|香港 02|香港 03|香港 04))^((?!(W01|x0.8|IEPL|日本|专线|中转|家宽|测试|没网)).)*$`http://www.gstatic.com/generate_204`60,150
 custom_proxy_group=梯神🇸🇬`url-test`(?=.*(中继 新加坡 04|中继 新加坡 05))^((?!(W01|x0.8|IEPL|日本|专线|中转)).)*$`http://www.gstatic.com/generate_204`60,150
 custom_proxy_group=香港`url-test`(?=.*(广港|香港W|HK|Hong Kong|🇭🇰|HongKong))^((?!(x0.8|中继|家宽|专线|中转|测试)).)*$`http://www.gstatic.com/generate_204`60,150
 custom_proxy_group=0.8香港`url-test`(?=.*(广港|香港W|HK|Hong Kong|🇭🇰|HongKong|x0.8))^((?!(W01|IEPL|日本|中继|家宽|专线|中转|测试)).)*$`http://www.gstatic.com/generate_204`60,150
