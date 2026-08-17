@@ -1,4 +1,5 @@
 ;1、域名组
+ruleset=🌍 GFW,https://gh-proxy.com/raw.githubusercontent.com/aksehf123/Clash/refs/heads/main/ProxyLiteList
 ruleset=➡️ 国内,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
 ruleset=🛑 广告拦截,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list
 ruleset=🛑 广告拦截,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanProgramAD.list
