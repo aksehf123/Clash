@@ -29,6 +29,7 @@ DOMAIN-SUFFIX,guangyapan.com
 DOMAIN-SUFFIX,xiuxitong.com
 DOMAIN-SUFFIX,uxpc.net
 DOMAIN-SUFFIX,mnpc.net
+DOMAIN-SUFFIX,so.252035.xyz
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
@@ -53,6 +54,7 @@ DOMAIN-KEYWORD,guangyapan.com
 DOMAIN-KEYWORD,xiuxitong.com
 DOMAIN-KEYWORD,uxpc.net
 DOMAIN-KEYWORD,mnpc.net
+DOMAIN-KEYWORD,so.252035.xyz
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
